@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HONOR\\source\\repos\\MySmartHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48E648-55D9-403B-823D-C6134CAE6D03}|MySmartHome.csproj|c:\\users\\honor\\source\\repos\\mysmarthome\\devices\\airconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E48E648-55D9-403B-823D-C6134CAE6D03}|MySmartHome.csproj|solutionrelative:devices\\airconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48E648-55D9-403B-823D-C6134CAE6D03}|MySmartHome.csproj|c:\\users\\honor\\source\\repos\\mysmarthome\\devices\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E48E648-55D9-403B-823D-C6134CAE6D03}|MySmartHome.csproj|solutionrelative:devices\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48E648-55D9-403B-823D-C6134CAE6D03}|MySmartHome.csproj|c:\\users\\honor\\source\\repos\\mysmarthome\\smarthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E48E648-55D9-403B-823D-C6134CAE6D03}|MySmartHome.csproj|solutionrelative:smarthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48E648-55D9-403B-823D-C6134CAE6D03}|MySmartHome.csproj|c:\\users\\honor\\source\\repos\\mysmarthome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E48E648-55D9-403B-823D-C6134CAE6D03}|MySmartHome.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48E648-55D9-403B-823D-C6134CAE6D03}|MySmartHome.csproj|c:\\users\\honor\\source\\repos\\mysmarthome\\devices\\ismartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E48E648-55D9-403B-823D-C6134CAE6D03}|MySmartHome.csproj|solutionrelative:devices\\ismartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48E648-55D9-403B-823D-C6134CAE6D03}|MySmartHome.csproj|c:\\users\\honor\\source\\repos\\mysmarthome\\eventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E48E648-55D9-403B-823D-C6134CAE6D03}|MySmartHome.csproj|solutionrelative:eventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48E648-55D9-403B-823D-C6134CAE6D03}|MySmartHome.csproj|c:\\users\\honor\\source\\repos\\mysmarthome\\devices\\heater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E48E648-55D9-403B-823D-C6134CAE6D03}|MySmartHome.csproj|solutionrelative:devices\\heater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E48E648-55D9-403B-823D-C6134CAE6D03}|MySmartHome.csproj|c:\\users\\honor\\source\\repos\\mysmarthome\\mysmarthome.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E48E648-55D9-403B-823D-C6134CAE6D03}|MySmartHome.csproj|solutionrelative:mysmarthome.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MySmartHome.csproj",
+              "DocumentMoniker": "C:\\Users\\HONOR\\source\\repos\\MySmartHome\\MySmartHome.csproj",
+              "RelativeDocumentMoniker": "MySmartHome.csproj",
+              "ToolTip": "C:\\Users\\HONOR\\source\\repos\\MySmartHome\\MySmartHome.csproj",
+              "RelativeToolTip": "MySmartHome.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T09:44:03.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISmartDevice.cs",
+              "DocumentMoniker": "C:\\Users\\HONOR\\source\\repos\\MySmartHome\\Devices\\ISmartDevice.cs",
+              "RelativeDocumentMoniker": "Devices\\ISmartDevice.cs",
+              "ToolTip": "C:\\Users\\HONOR\\source\\repos\\MySmartHome\\Devices\\ISmartDevice.cs",
+              "RelativeToolTip": "Devices\\ISmartDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:47:02.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventLogger.cs",
+              "DocumentMoniker": "C:\\Users\\HONOR\\source\\repos\\MySmartHome\\EventLogger.cs",
+              "RelativeDocumentMoniker": "EventLogger.cs",
+              "ToolTip": "C:\\Users\\HONOR\\source\\repos\\MySmartHome\\EventLogger.cs",
+              "RelativeToolTip": "EventLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:46:29.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmartHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HONOR\\source\\repos\\MySmartHome\\SmartHomeController.cs",
+              "RelativeDocumentMoniker": "SmartHomeController.cs",
+              "ToolTip": "C:\\Users\\HONOR\\source\\repos\\MySmartHome\\SmartHomeController.cs*",
+              "RelativeToolTip": "SmartHomeController.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:46:08.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Light.cs",
+              "DocumentMoniker": "C:\\Users\\HONOR\\source\\repos\\MySmartHome\\Devices\\Light.cs",
+              "RelativeDocumentMoniker": "Devices\\Light.cs",
+              "ToolTip": "C:\\Users\\HONOR\\source\\repos\\MySmartHome\\Devices\\Light.cs",
+              "RelativeToolTip": "Devices\\Light.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:45:39.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AirConditioner.cs",
+              "DocumentMoniker": "C:\\Users\\HONOR\\source\\repos\\MySmartHome\\Devices\\AirConditioner.cs",
+              "RelativeDocumentMoniker": "Devices\\AirConditioner.cs",
+              "ToolTip": "C:\\Users\\HONOR\\source\\repos\\MySmartHome\\Devices\\AirConditioner.cs*",
+              "RelativeToolTip": "Devices\\AirConditioner.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:45:15.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Heater.cs",
+              "DocumentMoniker": "C:\\Users\\HONOR\\source\\repos\\MySmartHome\\Devices\\Heater.cs",
+              "RelativeDocumentMoniker": "Devices\\Heater.cs",
+              "ToolTip": "C:\\Users\\HONOR\\source\\repos\\MySmartHome\\Devices\\Heater.cs",
+              "RelativeToolTip": "Devices\\Heater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:44:22.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HONOR\\source\\repos\\MySmartHome\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HONOR\\source\\repos\\MySmartHome\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:41:56.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
